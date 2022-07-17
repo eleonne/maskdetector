@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "maskdetector",
+    "slug": "maskdetector",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
